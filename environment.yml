@@ -1,0 +1,18 @@
+name: MOTSimulation
+
+channels:
+  - default
+  - conda-forge
+
+dependencies:
+  - python>3.6
+  - numpy
+  - jupyter
+  - scipy
+  - sympy
+  - magpylib>5.0
+  - plotly
+  - pip
+  - pip:
+    - ARC-Alkali-Rydberg-Calculator
+    - pylcp
