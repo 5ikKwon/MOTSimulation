@@ -5,10 +5,10 @@ channels:
   - conda-forge
 
 dependencies:
-  - python>3.6
-  - numpy
+  - python = 3.10
+  - numpy<2.4
   - jupyter
-  - scipy
+  - scipy = 1.8
   - sympy
   - magpylib>5.0
   - plotly
