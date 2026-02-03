@@ -1,4 +1,4 @@
-name: MOTSimulation
+name: MOT_workspace
 
 channels:
   - default
@@ -15,4 +15,3 @@ dependencies:
   - pip
   - pip:
     - ARC-Alkali-Rydberg-Calculator
-    - pylcp
