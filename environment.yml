@@ -12,6 +12,7 @@ dependencies:
   - sympy
   - magpylib>5.0
   - plotly
+  - h5py
   - pip
   - pip:
     - ARC-Alkali-Rydberg-Calculator
